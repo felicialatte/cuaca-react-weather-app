@@ -7,10 +7,10 @@ export default function App() {
     <div className="App">
      <h1>Weather App</h1>
     <footer>
-      This project is created by <a href='https://github.com/felicialatte' target='_blank'>
+      This project is created by <a href='https://github.com/felicialatte' target='_blank' rel="noopener noreferrer">
       Felicia Audrey
       </a> and is {" "}
-      <a href='https://github.com/felicialatte/cuaca-react-weather-app' target='_blank'>
+      <a href='https://github.com/felicialatte/cuaca-react-weather-app' target='_blank' rel="noopener noreferrer">
       open-sourced on GitHub
       </a>
     </footer>
